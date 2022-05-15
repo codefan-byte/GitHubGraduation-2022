@@ -78,7 +78,7 @@
 
 
  # Una nota sobre el swag 🛍
- Los primeros 7,500 PRs que exitosamente se fusionen recibiran una tarjeta de desarrollador de desarrollador holográfica personalizada con tus estadísticas de GitHub por correo.
+ Los primeros 7,500 PRs que exitosamente se fusionen recibiran una tarjeta de desarrollador holográfica personalizada con tus estadísticas de GitHub por correo.
 
  ¿Qué significa esto? Vamos a utilizar tu perfil público de GitHub para crear la tarjeta de desarrollador. Para asegurar que tu tarjeta te represente de la mejor forma, por favor asegúrate que tu foto de perfil de GitHub y tu biografía estén actualizadas con lo que te gustaría que se vea en tu tarjeta.
 
